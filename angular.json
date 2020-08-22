@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Techwire"
+    }
+  },
+  "defaultProject": "Techwire",
+  "cli": {
+    "analytics": "651f4b89-6c25-47e1-8b25-dcb8a5dbcaa4"
+  }
 }
